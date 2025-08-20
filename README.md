@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Chauhan Manish</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate web developer and Data Science Enthusiast from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manishchauhan009&label=Profile%20views&color=0e75b6&style=flat" alt="manishchauhan009" /> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://manishchauhan009.github.io/modernportfolio/](https://manishchauhan009.github.io/modernportfolio/)
+- 👨‍💻 All of my projects are available at [https://manishchauhan009.vercel.app](https://manishchauhan009.vercel.app/)
 
 - ⚡ Fun fact **I Think, I am Engineer 😎**
 
